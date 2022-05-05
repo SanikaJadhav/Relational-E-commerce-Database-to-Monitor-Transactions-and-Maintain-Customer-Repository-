@@ -1,0 +1,2 @@
+# Relational-E-commerce-Database-to-Monitor-Transactions-and-Maintain-Customer-Repository-
+-Designed the ERD and databases of a mid-size E-commerce business model using SSMS and visual paradigm (ETL)  -Performed the SQL queries on databases to satisfy business metrics, designing KPIs such as revenue estimation and forecasting, future targets, customers identification based on transaction history  -Customized marketing strategies, and recommended products based on analytical results
